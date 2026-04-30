@@ -1,0 +1,37 @@
+# Core Framework
+Flask==2.3.2
+Flask-CORS==4.0.0
+python-dotenv==1.0.0
+
+# Database & ORM
+SQLAlchemy==2.0.19
+python-dateutil==2.8.2
+
+# Image & Video Processing
+opencv-python==4.8.0.74
+Pillow==10.0.0
+numpy==1.24.3
+
+# AI/ML Models (Pre-trained)
+tensorflow==2.13.0
+tensorflow-hub==0.14.0
+scikit-image==0.21.0
+
+# API & Data Handling
+requests==2.31.0
+jsonschema==4.18.4
+
+# Audit & Security
+python-ulid==1.1.0
+cryptography==41.0.1
+
+# Logging & Monitoring
+python-logging-loki==0.3.2
+
+# Testing
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# Utilities
+tqdm==4.65.0
+PyYAML==6.0.1
